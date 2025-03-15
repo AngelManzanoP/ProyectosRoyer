@@ -1,0 +1,7 @@
+D:\profesorAlumno\profesorAlumno\obj\Debug\profesorAlumno.csproj.AssemblyReference.cache
+D:\profesorAlumno\profesorAlumno\obj\Debug\profesorAlumno.csproj.CoreCompileInputs.cache
+D:\profesorAlumno\profesorAlumno\bin\Debug\profesorAlumno.exe.config
+D:\profesorAlumno\profesorAlumno\bin\Debug\profesorAlumno.exe
+D:\profesorAlumno\profesorAlumno\bin\Debug\profesorAlumno.pdb
+D:\profesorAlumno\profesorAlumno\obj\Debug\profesorAlumno.exe
+D:\profesorAlumno\profesorAlumno\obj\Debug\profesorAlumno.pdb
