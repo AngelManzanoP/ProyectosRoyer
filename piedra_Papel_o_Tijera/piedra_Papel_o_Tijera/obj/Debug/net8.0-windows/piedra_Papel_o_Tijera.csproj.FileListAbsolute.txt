@@ -1,0 +1,17 @@
+C:\Users\tacod\Desktop\piedra_Papel_o_Tijera\piedra_Papel_o_Tijera\obj\Debug\net8.0-windows\piedra_Papel_o_Tijera.Form1.resources
+C:\Users\tacod\Desktop\piedra_Papel_o_Tijera\piedra_Papel_o_Tijera\obj\Debug\net8.0-windows\piedra_Papel_o_Tijera.Properties.Resources.resources
+C:\Users\tacod\Desktop\piedra_Papel_o_Tijera\piedra_Papel_o_Tijera\obj\Debug\net8.0-windows\piedra_Papel_o_Tijera.csproj.GenerateResource.cache
+C:\Users\tacod\Desktop\piedra_Papel_o_Tijera\piedra_Papel_o_Tijera\obj\Debug\net8.0-windows\piedra_Papel_o_Tijera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tacod\Desktop\piedra_Papel_o_Tijera\piedra_Papel_o_Tijera\obj\Debug\net8.0-windows\piedra_Papel_o_Tijera.AssemblyInfoInputs.cache
+C:\Users\tacod\Desktop\piedra_Papel_o_Tijera\piedra_Papel_o_Tijera\obj\Debug\net8.0-windows\piedra_Papel_o_Tijera.AssemblyInfo.cs
+C:\Users\tacod\Desktop\piedra_Papel_o_Tijera\piedra_Papel_o_Tijera\obj\Debug\net8.0-windows\piedra_Papel_o_Tijera.csproj.CoreCompileInputs.cache
+C:\Users\tacod\Desktop\piedra_Papel_o_Tijera\piedra_Papel_o_Tijera\bin\Debug\net8.0-windows\piedra_Papel_o_Tijera.exe
+C:\Users\tacod\Desktop\piedra_Papel_o_Tijera\piedra_Papel_o_Tijera\bin\Debug\net8.0-windows\piedra_Papel_o_Tijera.deps.json
+C:\Users\tacod\Desktop\piedra_Papel_o_Tijera\piedra_Papel_o_Tijera\bin\Debug\net8.0-windows\piedra_Papel_o_Tijera.runtimeconfig.json
+C:\Users\tacod\Desktop\piedra_Papel_o_Tijera\piedra_Papel_o_Tijera\bin\Debug\net8.0-windows\piedra_Papel_o_Tijera.dll
+C:\Users\tacod\Desktop\piedra_Papel_o_Tijera\piedra_Papel_o_Tijera\bin\Debug\net8.0-windows\piedra_Papel_o_Tijera.pdb
+C:\Users\tacod\Desktop\piedra_Papel_o_Tijera\piedra_Papel_o_Tijera\obj\Debug\net8.0-windows\piedra_Papel_o_Tijera.dll
+C:\Users\tacod\Desktop\piedra_Papel_o_Tijera\piedra_Papel_o_Tijera\obj\Debug\net8.0-windows\refint\piedra_Papel_o_Tijera.dll
+C:\Users\tacod\Desktop\piedra_Papel_o_Tijera\piedra_Papel_o_Tijera\obj\Debug\net8.0-windows\piedra_Papel_o_Tijera.pdb
+C:\Users\tacod\Desktop\piedra_Papel_o_Tijera\piedra_Papel_o_Tijera\obj\Debug\net8.0-windows\piedra_Papel_o_Tijera.genruntimeconfig.cache
+C:\Users\tacod\Desktop\piedra_Papel_o_Tijera\piedra_Papel_o_Tijera\obj\Debug\net8.0-windows\ref\piedra_Papel_o_Tijera.dll
